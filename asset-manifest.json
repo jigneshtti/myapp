@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jigneshtti/myapp.git/static/css/main.a2cd9795.css",
+    "main.js": "/jigneshtti/myapp.git/static/js/main.114c1f24.js",
+    "static/js/787.d3befce1.chunk.js": "/jigneshtti/myapp.git/static/js/787.d3befce1.chunk.js",
+    "static/media/SEGA.woff": "/jigneshtti/myapp.git/static/media/SEGA.17ba321b6733d8b5461a.woff",
+    "index.html": "/jigneshtti/myapp.git/index.html",
+    "main.a2cd9795.css.map": "/jigneshtti/myapp.git/static/css/main.a2cd9795.css.map",
+    "main.114c1f24.js.map": "/jigneshtti/myapp.git/static/js/main.114c1f24.js.map",
+    "787.d3befce1.chunk.js.map": "/jigneshtti/myapp.git/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2cd9795.css",
+    "static/js/main.114c1f24.js"
+  ]
+}
